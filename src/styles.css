@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Akaya+Telivigala&family=Fasthand&family=Inconsolata&family=Kolker+Brush&family=Pacifico&display=swap');
+.title{
+  /* font-family: 'Abel', sans-serif;*/
+  font-family: 'Pacifico', cursive;
+
+} 
+.contactImage{
+    width: 150px;
+    height:150px
+}
+body{
+  background-image:url("https://th.bing.com/th/id/R.6df757bd93ac05cd248ed747aebab836?rik=ESe3NO6Sw%2fcY3g&riu=http%3a%2f%2fwww.vervesearch.com%2fcss%2fbackground-grey-2.jpg&ehk=91uTJ4TnhsonVIMUI6KXnPNhqA81pUWOL26B4NUsFyk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1");
+}

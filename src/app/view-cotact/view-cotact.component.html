@@ -1,0 +1,42 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col mb-2">
+            <h1>
+               
+                <i class="fa-regular fa-address-card"></i>&nbsp;
+                 contact Details
+            </h1>
+           
+            <p style="text-align: justify;">thi is dummy data: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, adipisci velit ut sapiente quisquam temporibus dolorem vitae dolor, laudantium nobis at modi quo possimus eum assumenda facere vel aliquid ducimus Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, eaque minima voluptas, voluptatem et optio necessitatibus reprehenderit, delectus earum dolor magni dicta nam iste illo. Numquam quia aperiam aspernatur nesciunt..</p>
+
+          <pre>{{groupName | json}}</pre>
+        </div>
+        <!--view contact details-->
+        <div class="row">
+       
+        <div class="col-md-8 me-2 border p-3 ">
+          
+           
+            <div class="card mb-2">
+                
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Name: <b>{{contact.name}} </b></li>
+                  <li class="list-group-item">mobile: <b>{{contact.mobile}}</b></li>
+                  <li class="list-group-item">Address: <b>{{contact.address[0].street}}, {{contact.address[0].suite}}, {{contact.address[0].city}}</b></li>
+                  <li class="list-group-item">Email: <b>{{contact.email}}</b></li>
+                  <li class="list-group-item">company: <b>{{contact.company}}</b></li>
+                  <li class="list-group-item">title: <b>{{contact.title}}</b></li>
+                  <li class="list-group-item">Group: <b>{{groupName}}</b></li>
+                </ul>
+               
+              </div>
+              <a routerLink="/" type="button" class="btn btn-success">Back </a>
+           
+
+        </div>
+        <div class="col-md-3 border p-3">
+            <img [src]="contact.photo" alt="no image" width="250px">
+        </div>
+    </div>
+    </div>
+</div>
