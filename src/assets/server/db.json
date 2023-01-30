@@ -1,101 +1,118 @@
 {
-    "contacts": [
+  "contacts": [
     {
-        "id": "c1",
-        "name": "Leanne Graham",
-        "address":[ {
-            "street": "Kulas Light",
-            "suite": "Apt. 556",
-            "city": "Gwenborough"
-      }],
-      "email":"Sincere@april.biz",
-      "photo":"https://i.ytimg.com/vi/LM83T3sYh1E/maxresdefault.jpg",
-      "mobile":"0556789654",
-      "company":"Romaguera-Crona",
-      "title":"Manager",
-      "groupId":"1"
-
+      "id": "c1",
+      "name": "Leanne Graham",
+      "address": [
+        {
+          "street": "Kulas Light",
+          "suite": "Apt. 556",
+          "city": "Gwenborough"
+        }
+      ],
+      "email": "Sincere@april.biz",
+      "photo": "https://i.ytimg.com/vi/LM83T3sYh1E/maxresdefault.jpg",
+      "mobile": "0556789654",
+      "company": "Romaguera-Crona",
+      "title": "Manager",
+      "groupId": "1"
     },
     {
-        "id": "c2",
-        "name": "Ervin Howell",
-        "address":[ {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh"
-      }],
-      "email":"Shanna@melissa.tv",
-      "photo":"https://th.bing.com/th/id/R.dc6ed843245b88adcd98be2391b1c854?rik=vsGzeU8rrFoanQ&pid=ImgRaw&r=0",
-      "mobile":"0554537882",
-      "company":"Deckow-Crist",
-      "title":"HR",
-      "groupId":"4"
-
-    },
-
-    {
-        "id": "c3",
-        "name": "Clementine Bauch",
-        "address":[ {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven"
-      }],
-      "email":"Nathan@yesenia.net",
-      "photo":"https://www.theplace2.ru/cache/archive/bred_pitt/img/3249_Brad_Pitt_photo-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
-      "mobile":"1-463-123-4447",
-      "company":"Romaguera-Jacobson",
-      "title":"Developer",
-      "groupId":"2"
-
-
+      "id": "c2",
+      "name": "Ervin Howell",
+      "address": [
+        {
+          "street": "Victor Plains",
+          "suite": "Suite 879",
+          "city": "Wisokyburgh"
+        }
+      ],
+      "email": "Shanna@melissa.tv",
+      "photo": "https://th.bing.com/th/id/R.dc6ed843245b88adcd98be2391b1c854?rik=vsGzeU8rrFoanQ&pid=ImgRaw&r=0",
+      "mobile": "0554537882",
+      "company": "Deckow-Crist",
+      "title": "HR",
+      "groupId": "4"
     },
     {
-        "id": "c4",
-        "name": "Patricia Lebsack",
-        "address":[ {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis"
-      }],
-      "email":"Julianne.OConner@kory.org",
-      "photo":"https://th.bing.com/th/id/OIP.hVSUODNiBZzy_Sx_0ISHAQHaE7?pid=ImgDet&rs=1",
-      "mobile":"493-170-9623 x156",
-      "company":"Robel-Corkery",
-      "title":"Developer",
-      "groupId":"1"
+      "id": "c3",
+      "name": "Clementine Bauch",
+      "address": [
+        {
+          "street": "Douglas Extension",
+          "suite": "Suite 847",
+          "city": "McKenziehaven"
+        }
+      ],
+      "email": "Nathan@yesenia.net",
+      "photo": "https://www.theplace2.ru/cache/archive/bred_pitt/img/3249_Brad_Pitt_photo-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
+      "mobile": "1-463-123-4447",
+      "company": "Romaguera-Jacobson",
+      "title": "Developer",
+      "groupId": "2"
     },
     {
-        "id": "c5",
-        "name": "Chelsey Dietrich",
-        "address":[ {
-            "street": "Skiles Walks",
-             "suite": "Suite 351",
-            "city": "Roscoeview"
-      }],
-      "email":"Lucio_Hettinger@annie.ca",
-      "photo":"https://ilarge.lisimg.com/image/1849278/740full-angelina-jolie.jpg",
-      "mobile":"(254)954-1289",
-      "company":"Keebler LLC",
-      "title":"Data Analyst",
-      "groupId":"3"
+      "id": "c4",
+      "name": "Patricia Lebsack",
+      "address": [
+        {
+          "street": "Hoeger Mall",
+          "suite": "Apt. 692",
+          "city": "South Elvis"
+        }
+      ],
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://th.bing.com/th/id/OIP.hVSUODNiBZzy_Sx_0ISHAQHaE7?pid=ImgDet&rs=1",
+      "mobile": "493-170-9623 x156",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "c5",
+      "name": "Chelsey Dietrich",
+      "address": [
+        {
+          "street": "Skiles Walks",
+          "suite": "Suite 351",
+          "city": "Roscoeview"
+        }
+      ],
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://ilarge.lisimg.com/image/1849278/740full-angelina-jolie.jpg",
+      "mobile": "(254)954-1289",
+      "company": "Keebler LLC",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca5",
+      "name": "freddy",
+      "mobile": "097564534556",
+      "address": "sondos al khan ",
+      "email": "freddy@hotmail.com",
+      "photo": "https://th.bing.com/th/id/R.8cbdca501ea28c1be0a9f7bd0d32002a?rik=4sfFpDZhOtaHGg&pid=ImgRaw&r=0",
+      "company": "dreamers co operative",
+      "title": "HR",
+      "groupId": "3"
     }
-    ],
-    "groups":[ {
+  ],
+  "groups": [
+    {
       "id": "1",
-      "name":"friends"
+      "name": "friends"
     },
     {
-        "id": "2",
-        "name":"family"
-      },
-      {
-        "id": "3",
-        "name":"collegues"
-      },
-      {
-        "id": "4",
-        "name":"social"
-      }
-]
-  }
+      "id": "2",
+      "name": "family"
+    },
+    {
+      "id": "3",
+      "name": "collegues"
+    },
+    {
+      "id": "4",
+      "name": "social"
+    }
+  ]
+}
